@@ -1,6 +1,6 @@
 # SwiftUI with C++ & Bazel: StrokeMatching
 
-This repository showcases the implementation of Stroke Matching, a gesture recognition feature, using SwiftUI integrated with C++ and Bazel.
+This repository showcases the implementation of Stroke Matching, a gesture recognition feature to match the user-drawn strokes, using SwiftUI integrated with C++ and Bazel.
 
 # Repository Contents:
 

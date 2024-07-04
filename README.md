@@ -4,7 +4,7 @@ This repository showcases the implementation of Stroke Matching, a gesture recog
 
 # Repository Contents:
 
-- Stroke Matching using PencilKit to interpret user-drawn strokes using SwiftUI.
+- Stroke Matching using PencilKit to interpret user-drawn strokes in SwiftUI.
 - Bazel setup for building the project.
 - Integration of C++ with a bridging header.
 

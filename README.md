@@ -12,7 +12,7 @@ This repository showcases the implementation of Stroke Matching, a gesture recog
 Clone the repository and explore the implementation details in each component. Modify and extend the codebase to integrate Stroke Matching into your own iOS projects.
 
 # Video Demo
-<img src="demo.gif" width="600" height="300" />
+<img src="demo.gif" width="400" height="600" />
 
 # Next Plan:
 - Develop a web tutorial on implementing Stroke Matching.

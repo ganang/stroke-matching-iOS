@@ -4,9 +4,9 @@ This repository showcases the implementation of Stroke Matching, a gesture recog
 
 # Repository Contents:
 
-- SwiftUI for stroke-drawing view using PencilKit.
-- C++ algorithms for Stroke Matching computation.
-- Bazel configuration files for project setup and building.
+- Stroke Matching using PencilKit to interpret user-drawn strokes using SwiftUI.
+- Bazel setup for building the project.
+- Integration of C++ with a bridging header.
 
 # Usage:
 Clone the repository and explore the implementation details in each component. Modify and extend the codebase to integrate Stroke Matching into your own iOS projects.
